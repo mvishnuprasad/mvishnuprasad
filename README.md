@@ -9,13 +9,11 @@
 
 - 🌱 I’m currently learning **iOS Development using UIKIt and SwiftUI**
 
-- 📝 I regularly write articles on [Nothing till now. Planning to write on Graphic Design (Adobe CC) and Mobile Dev](Nothing till now. Planning to write on Graphic Design (Adobe CC) and Mobile Dev)
-
 - 💬 Ask me about **iOS , Frontend (MERN Stack)**
 
 - 📫 How to reach me **vpm735@gmail.com**
 
-- ⚡ Fun fact **Prefer to watch historic documentaries rather than an awesome movie, yeah too boring 😁**
+- ⚡ Not so fun fact : **Prefer to watch historic documentaries rather than an awesome movie, yeah too boring 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
