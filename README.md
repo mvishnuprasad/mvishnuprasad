@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/mvishnuprasad0" target="blank"><img src="https://img.shields.io/twitter/follow/mvishnuprasad0?logo=twitter&style=for-the-badge" alt="mvishnuprasad0" /></a> </p>
 
-- 👷‍♂️ I’m currently working at TCS [https://www.tcs.com/](https://www.tcs.com/)
+- 👷‍♂️ I’m currently working at **Tata Consultancy Services**
 
 - 🌱 I’m currently learning **iOS Development using UIKIt and SwiftUI**
 
-- 💬 Ask me about **iOS , Frontend (MERN Stack)**
+- 💬 Ask me about **iOS , Frontend (MERN Stack) , Graphic Design (Adobe CC)**
 
 - 📫 How to reach me **vpm735@gmail.com**
 
@@ -19,6 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/mvishnuprasad0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mvishnuprasad0" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mvishnuprasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mvishnuprasad" height="30" width="40" /></a>
+<a href="https://www.behance.net/vishnuprasadm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="vishnuprasadm" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
