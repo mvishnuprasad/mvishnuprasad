@@ -7,7 +7,7 @@
 
 - 👷‍♂️ I’m currently working at **Tata Consultancy Services**
 
-- 🌱 I’m currently learning **iOS Development using UIKIt and SwiftUI**
+- 🌱 I’m currently learning **iOS Development using UIKIt and SwiftUI , NodeJS**
 
 - 💬 Ask me about **iOS , Frontend (MERN Stack) , Graphic Design (Adobe CC)**
 
