@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mvishnuprasad0" target="blank"><img src="https://img.shields.io/twitter/follow/mvishnuprasad0?logo=twitter&style=for-the-badge" alt="mvishnuprasad0" /></a> </p>
 
-- 👷‍♂️ I’m currently working at **Tata Consultancy Services**
+- 👷‍♂️ I’m currently working as **iOS Developer**
 
 - 🌱 I’m currently learning **iOS Development using UIKIt and SwiftUI**
 
