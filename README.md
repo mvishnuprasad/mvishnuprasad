@@ -27,7 +27,7 @@
 
 <br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mvishnuprasad&show_icons=true&include_all_commits=true&theme=radical" alt="mvishnuprasad" /></p>
-<br><br>
+<br><br><br><br><br><br><br><br><br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvishnuprasad&layout=compact&theme=radical" alt="mvishnuprasad" /></p>
 
 <br><br>
