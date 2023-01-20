@@ -38,7 +38,7 @@
 
 <p style = "float:left">
 [![Activity](https://github-readme-activity-graph.cyclic.app/graph?username=mvishnuprasad)](https://github.com/mvishnuprasad/github-readme-activity-graph)
-![Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvishnuprasad&theme=blue-green&show_icons=true)
+[![Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvishnuprasad&theme=blue-green&show_icons=true)
 
 
 
