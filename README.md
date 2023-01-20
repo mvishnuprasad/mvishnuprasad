@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mvishnuprasad&label=Profile%20views&color=0e75b6&style=flat" alt="mvishnuprasad" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mvishnuprasad0" target="blank"><img src="https://img.shields.io/twitter/follow/mvishnuprasad0?logo=twitter&style=for-the-badge" alt="mvishnuprasad0" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mvpVpm" target="blank"><img src="https://img.shields.io/twitter/follow/mvpVpm?logo=twitter&style=for-the-badge" alt="mvpVpm" /></a> </p>
 
 - 👷‍♂️ I’m currently working as **iOS Developer**
 
@@ -20,7 +20,7 @@
   
 <!-- [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/mvpVpm) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://linkedin.com/in/mvishnuprasad)
  -->
-<a href="https://twitter.com/mvpVpm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mvishnuprasad0" height="30" width="40" /></a>
+<a href="https://twitter.com/mvpVpm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mvpVpm" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mvishnuprasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mvishnuprasad" height="30" width="40" /></a>
 <a href="https://www.behance.net/vishnuprasadm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="vishnuprasadm" height="30" width="40" /></a>
 </p>
