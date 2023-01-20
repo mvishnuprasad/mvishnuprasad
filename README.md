@@ -32,7 +32,7 @@
 
 
 ![Vishnu's Github Stats](https://github-readme-stats.vercel.app/api?username=mvishnuprasad&show_icons=true&include_all_commits=true&theme=radical)
-
+[![Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvishnuprasad)](https://github.com/mvishnuprasad/github-readme-stats)
 ![Vishnu's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mvishnuprasad&layout=compact&theme=radical)
 
 ![Vishnu's github activity graph](https://activity-graph.herokuapp.com/graph?username=mvishnuprasad&theme=dracula)
