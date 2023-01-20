@@ -31,7 +31,7 @@
 
 [![Activity](https://github-readme-activity-graph.cyclic.app/graph?username=mvishnuprasad)](https://github.com/mvishnuprasad/github-readme-activity-graph)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvishnuprasad&layout=compact)](https://github.com/mvishnuprasad/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvishnuprasad)](https://github.com/mvishnuprasad/github-readme-stats)
 
 </p>
 
