@@ -29,7 +29,7 @@
 
 
 
-[![Activity](https://github-readme-activity-graph.cyclic.app/graph?username=Vishnu)](https://github.com/mvishnuprasad/github-readme-activity-graph)
+[![Activity](https://github-readme-activity-graph.cyclic.app/graph?username=mvishnuprasad)](https://github.com/mvishnuprasad/github-readme-activity-graph)
 
 
 
