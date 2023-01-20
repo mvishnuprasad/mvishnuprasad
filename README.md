@@ -32,6 +32,7 @@
 [![Activity](https://github-readme-activity-graph.cyclic.app/graph?username=mvishnuprasad)](https://github.com/mvishnuprasad/github-readme-activity-graph)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvishnuprasad)](https://github.com/mvishnuprasad/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvishnuprasad&theme=blue-green&show_icons=true)
 
 </p>
 
