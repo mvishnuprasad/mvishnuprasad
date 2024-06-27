@@ -144,6 +144,29 @@
 </p>
 
 <br>
+
+<br>
+
+<h3 align="center">Platforms</h3>
+
+<br>
+
+<p align="center">
+  <a href="https://www.microsoft.com/en-in" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="windows" width="40" height="40" ">
+  </a>
+ 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="apple" width="40" height="40" ">
+  </a>
+
+  <a href="https://www.apple.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" width="40" height="40" ">
+  </a>
+
+</p>
+
+<br>
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mvishnuprasad&theme=blue-green&show_icons=true" />
