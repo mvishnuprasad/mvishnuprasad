@@ -21,7 +21,8 @@
   <h2 align="center">💫 About Me:</h2>
 <p align="center">
   <p align="center">💻 👷‍♂️ I’m currently working as iOS Developer</p>
-  <p align="center">💻 🌱 I’m currently learning iOS Development using UIKIt and SwiftUI</p>
+  <p align="center">💻 🌱 I’m currently t using UIKIt and SwiftUI</p>
+  <p align="center">💻 🌱 I’m currently learning Flutter and RIverPod</p>
   <p align="center">💻 💬 Ask me about iOS, Frontend (MERN Stack), Graphic Design (Adobe CC)</p>
   <p align="center">💻 📫 How to reach me <a href="mailto:vpm735@gmail.com">vpm735@gmail.com</a></p>
 </p>
