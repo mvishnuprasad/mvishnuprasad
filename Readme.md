@@ -169,14 +169,14 @@
 
 <br>
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/mvishnuprasad?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mvishnuprasad&theme=blue-green&show_icons=true" />
 </a>
 </p>
 
 <br>
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/mvishnuprasad?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvishnuprasad&langs_count=18" />
 </a>
 </p>
