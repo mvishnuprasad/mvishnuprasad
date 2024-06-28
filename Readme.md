@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vishnu</h1>
-<br><br>
-<h3 align="center">I am a software engineer, working on Mobile and Web development</h3>
 <br>
+<h3 align="center">I am a software engineer, working on Mobile and Web development</h3>
+<br><br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mvishnuprasad&label=Profile%20views&color=0e75b6&style=flat" alt="mvishnuprasad">
 </p>
-<br>
 <p align="center">
   <a href="https://twitter.com/mvpVpm" target="blank">
     <img src="https://img.shields.io/twitter/follow/Vishnu?logo=twitter&style=for-the-badge" alt="Vishnu">
@@ -14,11 +13,11 @@
 <br><br>
 <h2 align="center">💫 About Me:</h2>
 <p align="center">
-  <p>💻 👷‍♂️ I’m currently working as iOS Developer</p>
-  <p>💻 🌱 I’m currently using UIKit and SwiftUI</p>
-  <p>💻 🌱 I’m currently learning Flutter and RiverPod</p>
-  <p>💻 💬 Ask me about iOS, Frontend (MERN Stack), Graphic Design (Adobe CC)</p>
-  <p>💻 📫 How to reach me <a href="mailto:vpm735@gmail.com">vpm735@gmail.com</a></p>
+<p align="center">💻 👷‍♂️ I’m currently working as iOS Developer</p>
+<p align="center">💻 🌱 I’m currently using UIKit and SwiftUI</p>
+<p align="center">💻 🌱 I’m currently learning Flutter and RiverPod</p>
+<p align="center">💻 💬 Ask me about iOS, Frontend (MERN Stack), Graphic Design (Adobe CC)</p>
+<p align="center">💻 📫 How to reach me <a href="mailto:vpm735@gmail.com">vpm735@gmail.com</a></p>
 </p>
 <br><br>
 <h3 align="center">Connect with me:</h3>
