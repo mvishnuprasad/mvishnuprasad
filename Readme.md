@@ -60,16 +60,8 @@
 <br>
 
 <p align="center">
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40" ">
-  </a>
- 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" ">
-  </a>
- 
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" ">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=swift,flutter,dart,react" />
   </a>
 </p>
 
