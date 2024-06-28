@@ -41,11 +41,13 @@
 <br>
 <h3 align="center">Web</h3>
 <br>
+<kbd>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,nodejs,react" />
   </a>
 </p>
+</kbd>
 <br>
 <h3 align="center">Dev Tools</h3>
 <br>
