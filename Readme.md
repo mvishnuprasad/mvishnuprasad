@@ -1,14 +1,4 @@
-<div class="readme-container">
-    <style>
-       .readme-container {
-    padding: 20px; /* Adjust padding for better border visibility */
-    border: 5px solid rgba(0, 255, 255, 0.3); /* Set border color and transparency */
-    box-shadow: 0 0 20px 5px rgba(0, 255, 255, 0.5); /* Create neon glow effect */
-}
-
-    </style>
-
-    </div>
+<kbd>
 
 
 <h1 align="center">Hi 👋, I'm Vishnu</h1>
@@ -155,4 +145,4 @@
 </a>
 </p>
 
-
+</kbd>
