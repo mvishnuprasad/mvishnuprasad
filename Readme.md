@@ -38,7 +38,7 @@
   <a href="https://twitter.com/mvpVpm" target="blank">
     <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="mvpVpm" height="30" width="40"  ">
   </a>
- 
+ :white_circle:
 
   <a href="https://linkedin.com/in/mvishnuprasad" target="blank">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="mvishnuprasad" height="30" width="40"  ">
