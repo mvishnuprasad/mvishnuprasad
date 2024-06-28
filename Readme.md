@@ -33,9 +33,10 @@
 
 <br>
 
+
 <p align="center">
   <a href="https://twitter.com/mvpVpm" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mvpVpm" height="30" width="40"  ">
+    <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="mvpVpm" height="30" width="40"  ">
   </a>
  
 
