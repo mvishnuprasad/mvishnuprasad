@@ -78,7 +78,7 @@
 
 <br>
 
-<h3 align="center">Design Tools</h3>
+<h3 align="center">Dev Tools</h3>
 
 <br>
 <p align="center">
@@ -88,7 +88,7 @@
 </p>
 
 <br>
-<h3 align="center">DevTools</h3>
+<h3 align="center">Design Tools</h3>
 
 <br>
 <p align="center">
