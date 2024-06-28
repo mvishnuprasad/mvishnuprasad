@@ -24,7 +24,10 @@
 <br>
 <p align="center">
   <a href="https://twitter.com/mvpVpm" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=twitter,linkedin" alt="mvpVpm" height="30" width="40">
+    <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="mvpVpm" height="30" width="40">
+  </a>
+  <a href="https://linkedin.com/in/mvishnuprasad" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="mvishnuprasad" height="30" width="40">
   </a>
   <a href="https://www.behance.net/vishnuprasadm" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="vishnuprasadm" height="30" width="40">
@@ -41,13 +44,11 @@
 <br>
 <h3 align="center">Web</h3>
 <br>
-<kbd>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,nodejs,react" />
   </a>
 </p>
-</kbd>
 <br>
 <h3 align="center">Dev Tools</h3>
 <br>
