@@ -1,4 +1,4 @@
-<p> <div style="border: 2px solid; border-image: linear-gradient(to left, #743ad5, #d53a9d) 1; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(116, 58, 213, 0.5), 0 0 20px rgba(213, 58, 157, 0.5); margin: 20px;">
+<div> <div style="border: 2px solid; border-image: linear-gradient(to left, #743ad5, #d53a9d) 1; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(116, 58, 213, 0.5), 0 0 20px rgba(213, 58, 157, 0.5); margin: 20px;">
 <h1 align="center">Hi 👋, I'm Vishnu</h1>
 
 <h3 align="center">I am a software engineer, working on Mobile and Web development</h3>
@@ -144,4 +144,4 @@
 </p>
 
 
-</p>
+</div>
