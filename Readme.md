@@ -16,7 +16,7 @@
 <p align="center">
 <p align="center">💻 👷‍♂️ I’m currently working as iOS Developer</p>
 <p align="center">💻 🌱 I’m currently using UIKit and SwiftUI</p>
-<p align="center">💻 🌱 I’m currently learning Flutter and RiverPod</p>
+<p align="center">💻 🌱 I have 1 yoe, in flutter </p>
 <p align="center">💻 💬 Ask me about iOS, Frontend (MERN Stack), Graphic Design (Adobe CC)</p>
 <p align="center">💻 📫 How to reach me <a href="mailto:vpm735@gmail.com">vpm735@gmail.com</a></p>
 </p>
