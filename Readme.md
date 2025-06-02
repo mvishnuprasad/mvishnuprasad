@@ -14,6 +14,7 @@
 <br>
 <h2 align="center">💫 About Me:</h2>
 <p align="center">
+  <p align="center">💻 👷‍♂️ I’m a Mobile app developer with 5 YOE</p>
 <p align="center">💻 👷‍♂️ I’m currently working as iOS Developer</p>
 <p align="center">💻 🌱 I’m currently using UIKit and SwiftUI</p>
 <p align="center">💻 🌱 I have 1 yoe, in flutter </p>
