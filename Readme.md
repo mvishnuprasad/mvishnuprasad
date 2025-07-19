@@ -96,6 +96,6 @@
 <br>
 <p align="center">
   <a href="https://github.com/mvishnuprasad?tab=repositories">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvishnuprasad&langs_count=12" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvishnuprasad&langs_count=13" />
   </a>
 </p>
